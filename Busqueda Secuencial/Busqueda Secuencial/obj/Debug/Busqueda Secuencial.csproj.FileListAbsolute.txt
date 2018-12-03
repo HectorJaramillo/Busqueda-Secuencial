@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.exe.config
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.exe
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.pdb
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.exe
+C:\Users\DELL CORE i5\source\repos\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.pdb
